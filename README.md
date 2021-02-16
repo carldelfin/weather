@@ -1,6 +1,6 @@
 ## Overview
 
-A simple R script that fetches GPS coordinates of a given location using geocode.xyz and then reports the weather using data from Meteorologisk institutt in Norway (https://api.met.no/).
+A simple R script that fetches GPS coordinates of a given location using [geocode.xyz](http://geocode.xyz/api) and then reports the weather using data from [Meteorologisk institutt in Norway](https://api.met.no/).
 
 ## Usage
 
